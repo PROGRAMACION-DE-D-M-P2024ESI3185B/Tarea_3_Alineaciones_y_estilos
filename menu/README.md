@@ -1,16 +1,29 @@
-# menu
+# tarea_3_analizando_layouts
+Tarea 3 | Analizando layouts
 
-A new Flutter project.
+Temas:
+-	Utilizar colores
+-	Utilizar iconos
+-	Utilizar Containers con esquinas redondeadas y colores
+-	Utilizar textos con style
+-	Utilizar stacks
+-	Utilizar imágenes 
+-	Utilizar paddings
+-	Utilizar columnas y filas y sus alineaciones
+-	Utilizar assets (assets en el repo, agregar al pubspec).
 
-## Getting Started
+Lo que más me costo
+-	El generar fue la apariencia de los datos deseados y el gestionar la estructura de la app. Además de entender los requerimientos en algunas partes
 
-This project is a starting point for a Flutter application.
+Lo que aprendí:
+-	A utiliza las funciones dentro de widgets.
+-	A usar alerts.
+-	Generar cambios en contenedores a necesidad.
+-	Utiliza los objetos tipo listas.
+ 
+Material App Bar:
+Esta aplicación es una interfaz donde se podrá pedir alimentos por delivery o pickup de tal manera que seleccionas solo un alimento a la vez y al presionar el alimento te mencionara que lo has seleccionado.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
+Bibliografía:
+-	Net Ninja (2019, Ago 28).  Flutter Tutorial for Beginners #8 - Images & Assets [Online]. Available: https://www.youtube.com/watch?v=Hxh6nNHSUjo
