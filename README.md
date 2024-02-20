@@ -23,4 +23,4 @@
 # Material App Bar:
 Esta aplicación es una interfaz donde se podrá pedir alimentos por delivery o pickup de tal manera que seleccionas solo un alimento a la vez y al presionar el alimento te mencionara que lo has seleccionado.
 
-[Home](/Screenshots/home.jpg)
+[Home](Screenshots/home.jpg)
