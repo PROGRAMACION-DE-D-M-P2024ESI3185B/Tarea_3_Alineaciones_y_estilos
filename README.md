@@ -24,3 +24,10 @@
 Esta aplicación es una interfaz donde se podrá pedir alimentos por delivery o pickup de tal manera que seleccionas solo un alimento a la vez y al presionar el alimento te mencionara que lo has seleccionado.
 
 ![Home](Screenshots/home.jpg)
+![Home](Screenshots/selected.jpg)
+![Home](Screenshots/pickup.jpg)
+![Home](Screenshots/Delivery.jpg)
+
+# Bibliografía:
+-	Net Ninja (2019, Ago 28).  Flutter Tutorial for Beginners #8 - Images & Assets [Online]. Available: https://www.youtube.com/watch?v=Hxh6nNHSUjo
+
